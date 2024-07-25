@@ -21,10 +21,10 @@
 ### 👨‍💻 All of my projects are available at
 - [GitHub Repositories](https://github.com/himilsinh-sindha?tab=repositories)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=himilsinh-sindha&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-
 ### 💬 Ask me about
 - React, Java, Cloud Computing, Node, Spring Boot
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=himilsinh-sindha&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 
 ### 📫 How to reach me
 - **Email:** himilsinh07@gmail.com
