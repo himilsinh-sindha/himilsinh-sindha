@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himilsinh Sindha</h1>
+
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://himilsinh.dorik.io)
+
 <h3 align="center">Final Year Computer Science & Engineering Student at The Maharaja Sayajirao University</h3>
 <p align="center">
   <em>Passionate about developing innovative solutions with a keen interest in cloud computing, web development, and algorithm research.</em>
@@ -7,6 +10,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=himilsinh-sindha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
+
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
 ### 🌱 I’m currently learning
 - **Blockchain Technology**
@@ -32,7 +37,7 @@
 <h3 align="left">Languages and Tools</h3>
 <p align="left">  
 <a href="https://skillicons.dev" margin-bottom=20px>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,mongodb,express,react,nodejs,redux,firebase,tailwind,postman,vscode,git,github,androidstudio,bootstrap,mysql,spring,python,azure,discord,eclipse,npm,windows,ubuntu,powershell,notion,netlify,linux,kali,jquery,aws,azure,figma,windows,sequelize&perline=10" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,mongodb,express,react,nodejs,redux,firebase,tailwind,postman,vscode,git,github,androidstudio,bootstrap,mysql,spring,python,azure,discord,eclipse,npm,windows,ubuntu,powershell,notion,netlify,linux,kali,jquery,aws,azure,figma,windows,ps,sequelize&perline=10" />
 </a>
 </p>
 
