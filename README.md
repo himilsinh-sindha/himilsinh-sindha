@@ -27,9 +27,7 @@
 ### 📫 How to reach me
 - **Email:** himilsinh07@gmail.com
 
-<p align="right">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=himilsinh-sindha&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=himilsinh-sindha&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
