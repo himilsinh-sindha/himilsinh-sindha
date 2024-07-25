@@ -44,11 +44,11 @@
 </p>
 
 <p align="left">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=himilsinh-sindha&show_icons=true&locale=en" alt="GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=himilsinh-sindha&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
   
 <p align="left">
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=himilsinh-sindha" alt="GitHub Streak" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himilsinh-sindha" alt="GitHub Streak" />
 </p>
 
 
