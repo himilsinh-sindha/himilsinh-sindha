@@ -29,10 +29,12 @@
   </a>
 </p>
 
-<h3 align="center">Languages and Tools</h3>
+<h3 align="left">Languages and Tools</h3>
+<p align="center">  
 <a href="https://skillicons.dev" margin-bottom=20px>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,mongodb,express,react,nodejs,redux,firebase,tailwind,postman,vscode,git,github,androidstudio,bootstrap,mysql,spring,python,azure,discord,eclipse,npm,windows,ubuntu,powershell,notion,netlify,linux,kali,jquery,sequelize&perline=10" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,mongodb,express,react,nodejs,redux,firebase,tailwind,postman,vscode,git,github,androidstudio,bootstrap,mysql,spring,python,azure,discord,eclipse,npm,windows,ubuntu,powershell,notion,netlify,linux,kali,jquery,aws,azure,figma,windows,sequelize&perline=10" />
 </a>
+</p>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=himilsinh-sindha&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
