@@ -48,7 +48,7 @@
 
 
 
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=himilsinh-sindha" alt="GitHub Streak" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=himilsinh-sindha" alt="GitHub Streak" />
   
 
 
