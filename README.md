@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himilsinh Sindha</h1>
 
-[![MasterHead](https://media.licdn.com/dms/image/C4D1BAQHK_XcVi1f4MQ/company-background_10000/0/1607639631297/mernstack_cover?e=2147483647&v=beta&t=BTUr0rgiUt_T9cG6E2Cm_IqZONgnIH_VIhRbSeuLBiQ)
+![MasterHead](https://media.licdn.com/dms/image/C4D1BAQHK_XcVi1f4MQ/company-background_10000/0/1607639631297/mernstack_cover?e=2147483647&v=beta&t=BTUr0rgiUt_T9cG6E2Cm_IqZONgnIH_VIhRbSeuLBiQ)
 
 <h3 align="center">Final Year Computer Science & Engineering Student at The Maharaja Sayajirao University</h3>
 <p align="center">
