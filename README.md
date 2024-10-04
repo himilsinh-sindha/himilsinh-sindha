@@ -51,5 +51,9 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himilsinh-sindha" alt="GitHub Streak" />
 </p>
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/himilsinh07?ext=heatmap)
+
+[![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=himilat0)](https://www.geeksforgeeks.org/user/himilat0/)
+
 
 
